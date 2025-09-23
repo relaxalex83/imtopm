@@ -6,6 +6,8 @@
 #### Если система просит перенести приложение "В Корзину":
 
 Перенесите утилиту в "Applications"
+
+Откройте "Терминал", введите команду:
 ```
-Откройте "Терминал", введите команду: sudo xattr -cr /Applications/imtomp.app
+sudo xattr -cr /Applications/imtomp.app
 ```
