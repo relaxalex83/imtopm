@@ -7,4 +7,7 @@
 
 Перенесите утилиту в "Applications"
 
-Откройте "Терминал", введите команду: sudo xattr -cr /Applications/imtomp.app
+Откройте "Терминал", введите команду:
+```
+sudo xattr -cr /Applications/imtomp.app
+```
